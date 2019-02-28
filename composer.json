@@ -1,0 +1,16 @@
+{
+    "name": "rustam/active-record",
+    "type": "project",
+    "authors": [
+        {
+            "name": "RustamSafin",
+            "email": "last.safin@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
